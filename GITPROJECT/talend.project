@@ -365,4 +365,7 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_aMrXYiguEeeOM4BinX0j3Q" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_brYKACguEeeOM4BinX0j3Q" login="gituser@company.com" firstName="Git" lastName="User" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_ZNf84SgvEeetIJTqPzu5xQ" login="dev1@company.com" firstName="dev1" lastName="dev1" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_ZNf84igvEeetIJTqPzu5xQ" login="dev2@company.com" firstName="dev2" lastName="dev2" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_ZNf84ygvEeetIJTqPzu5xQ" login="operator@company.com" firstName="Operator" lastName="Operator" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
